@@ -9,6 +9,8 @@ List of Data Science Cheatsheets to rule the world.
     - [Data Science with Python Workflow](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_Python_Workflow.pdf)
     - [Data Science with R Workflow](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_R_Workflow.pdf)
 - [Python](https://github.com/FavioVazquez/ds-cheatsheets#python)
+    - [Python dictionary](https://www.pythonsheets.com/notes/python-dict.html)
+    - [Python style guide](https://www.pythonsheets.com/notes/python-code-style.html)
     - [Python Basics](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/python_basics.pdf)
     - [Pandas Basics](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/pandas_basics.pdf)
     - [Pandas](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/pandas.pdf)
