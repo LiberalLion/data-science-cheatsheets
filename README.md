@@ -75,7 +75,7 @@ List of Data Science Cheatsheets to rule the world.
     - [Principles of data visualization](https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html)
     - [Tableau glossary and shortcuts](https://www.dummies.com/programming/big-data/big-data-visualization/tableau-for-dummies-cheat-sheet/)
     - [Guide to Tableau charts](https://towardsdatascience.com/the-ultimate-cheat-sheet-on-tableau-charts-642bca94dde5)
-    - [A guide to every type of graph, plot and chart](A guide to every type of graph, plot and chart)
+    - [A guide to every type of graph, plot and chart](https://datavizcatalogue.com/)
     - [Matplotlib](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/matplotlib.pdf)
     - [Seaborn](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/seaborn.pdf)
     - [Bokeh](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/bokeh.pdf)
