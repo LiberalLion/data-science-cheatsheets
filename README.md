@@ -22,6 +22,7 @@ List of Data Science Cheatsheets to rule the world.
     - [Python REGEX](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/python-regular-expressions-cheat-sheet.pdf)
     - [Python 3 Memento](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Others/mementopython3-english.pdf)
 - [R](https://github.com/FavioVazquez/ds-cheatsheets#r)
+    - [The complete list of resources from RStudio](https://rstudio.com/resources/cheatsheets/)
     - [Tidiverse](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/Datacamp/tidiverse_beginners.pdf)
     - [data.table](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/Datacamp/data_table.pdf)
     - [xts](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/Datacamp/xts.pdf)
