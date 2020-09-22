@@ -69,7 +69,7 @@ List of Data Science Cheatsheets to rule the world.
     - [Recurrent Neural Networks](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/cheatsheet-recurrent-neural-networks.pdf)
     - [Tips and Tricks](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/cheatsheet-deep-learning-tips-tricks.pdf)
 - [SQL](https://github.com/FavioVazquez/ds-cheatsheets#sql)
-    - [General SQL guide](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/sql-cheat-sheet.pdf)
+    - [General SQL guide](https://github.com/um-bra/data-science-cheatsheets/blob/master/SQL/sql-cheat-sheet.pdf)
     - [Top 36 SQL Keywords](https://www.educba.com/sql-keywords/)
     - [SQL syntax](https://www.sqltutorial.org/sql-syntax/)
     - [SQL data types](https://www.sqltutorial.org/sql-data-types/)
