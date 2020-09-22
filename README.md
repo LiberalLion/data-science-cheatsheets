@@ -73,7 +73,7 @@ List of Data Science Cheatsheets to rule the world.
     - [Top 36 SQL Keywords](https://www.educba.com/sql-keywords/)
     - [SQL syntax](https://www.sqltutorial.org/sql-syntax/)
     - [SQL data types](https://www.sqltutorial.org/sql-data-types/)
-    - [SQL commands]()
+    - [SQL commands](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.png)
     - [SQL queries](https://www.sqltutorial.org/sql-cheat-sheet/)
     - [SQL cheatsheet by sqltutorial (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/SQL-cheat-sheet.pdf)
     - [SQL cheatsheet by Rebel Labs](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/zt_sql_cheat_sheet.pdf)
